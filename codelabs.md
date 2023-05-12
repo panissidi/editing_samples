@@ -27,5 +27,3 @@
 **Web (Chrome)**
 
 [Implement passkeys with form autofill in a web app](https://developers.google.com/codelabs/passkey-form-autofill)
-
-[Give web pages programmatic access to ChromeOS Desk](https://codelabs.developers.google.com/deskapi)
