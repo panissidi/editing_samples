@@ -18,12 +18,12 @@
 
 [Create a custom object detection web app with MediaPipe](https://codelabs.developers.google.com/mp-object-detection-web)
 
-**Mobile (Android)**
+**Mobile**
 
 [Add chat-related features to an Android app with the Messaging and People APIs](https://codelabs.developers.google.com/people-messaging)
 
 [Enhance stylus support in an Android app](https://developer.android.com/codelabs/large-screens/advanced-stylus-support)
 
-**Web (Chrome)**
+**Web**
 
 [Implement passkeys with form autofill in a web app](https://developers.google.com/codelabs/passkey-form-autofill)
